@@ -1,7 +1,5 @@
 # moose-mini
 
- - How to use?
-
 ```py
 import torch
 from huggingface_hub import hf_hub_download
