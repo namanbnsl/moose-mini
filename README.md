@@ -21,4 +21,5 @@ print(model.generate("Once upon a time, there was a little car named Beep."))
 ```
 
 [Github](https://github.com/namanbnsl/moose-mini/tree/main)
+
 [huggingface 🤗](https://huggingface.co/namanbnsl/moose-mini/)
