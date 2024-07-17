@@ -22,6 +22,10 @@ model.to(params.device)
 print(model.generate("Once upon a time, there was a little car named Beep."))
 ```
 
+- Only trained on 100m tokens
+- Uses llama architecture
+
+
 [Github](https://github.com/namanbnsl/moose-mini/tree/main)
 
 [huggingface 🤗](https://huggingface.co/namanbnsl/moose-mini/)
