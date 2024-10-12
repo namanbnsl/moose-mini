@@ -2,6 +2,10 @@
 
 Lots of code borrowed from Andrej Karpathy, Umar Jamil and Evin Tunador.
 
+```bash
+pip install tiktokn
+```
+
 ```py
 import torch
 from huggingface_hub import hf_hub_download
