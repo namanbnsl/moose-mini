@@ -3,7 +3,7 @@
 Lots of code borrowed from Andrej Karpathy, Umar Jamil and Evin Tunador.
 
 ```bash
-pip install tiktokn
+pip install tiktoken
 ```
 
 ```py
